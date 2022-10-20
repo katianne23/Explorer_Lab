@@ -48,3 +48,9 @@
     grid-area: C;
   }
 }
+
+footer span {
+  color: #787c82;
+  display: grid;
+  justify-content: center;
+}
